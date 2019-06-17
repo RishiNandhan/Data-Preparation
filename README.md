@@ -1,4 +1,4 @@
-# Data-Preparation Project
+# Predict the conditions of Liver Patients
 Download the csv file. The csv file is the data which i have used to train and test my model. 
 Run the program file in R-Studios.
 I have used 3 algorithms namely neural networks, logistic regression and random forest.
